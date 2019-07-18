@@ -13,3 +13,5 @@ int main (int argc, char *argv[]){
     p=somme(a,b);
     printf("\n La somme de %d et %d est %d\n",a,b,p);
 }
+
+//je viens de modifier mon fichier 
